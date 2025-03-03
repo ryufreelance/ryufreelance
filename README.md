@@ -1,5 +1,7 @@
 # ¡Hola! 👋 Soy Rolando
 
+<div align="center">
+
 <a href="https://github.com/tu-usuario"> 
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&pause=1000&color=B873F1&width=435&lines=Desarrollador;Analista+de+Datos;Profesor;Apasionado+por+la+tecnología;Creatividad;Y+el+Conocimiento">
 </a>
@@ -7,22 +9,20 @@
 ---
 
 ## 🌟 Sobre mí
-- 💻 Amante de resolver problemas a través del código y la organización.
-- 💡 Me entusiasma aprender nuevas tecnologías cada día y compartir conocimiento a traves de mi canal de Youtube.
-- 👓 Apasionado por el orden y la automatización.
-- 🌍 Idiomas: Español, Inglés intermedio.
+
+💻 Amante de resolver problemas a través del código y la organización.  
+💡 Me entusiasma aprender nuevas tecnologías cada día y compartir conocimiento a través de mi canal de YouTube.  
+👓 Apasionado por el orden y la automatización.  
+🌍 Idiomas: Español, Inglés intermedio.
 
 ---
 
-## 🚀 Conécta conmigo
+## 🚀 Conéctate conmigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rolandolugo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@ryufreelance"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://github.com/ryufreelance"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:ryu.freelance7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
+<a href="https://www.linkedin.com/in/rolandolugo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/@ryufreelance"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://github.com/ryufreelance"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:ryu.freelance7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ---
 
@@ -49,3 +49,5 @@
 ![Inglés](https://img.shields.io/badge/Inglés-0073CF?style=for-the-badge&logo=language&logoColor=white)
 ![Soporte Técnico](https://img.shields.io/badge/Soporte%20Técnico-3D85C6?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
