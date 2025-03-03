@@ -28,26 +28,24 @@
 
 ## 🧑‍💻 Mis habilidades
 
-<p style="font-family: 'Roboto', sans-serif;">
-  <span style="display: inline-block; background-color: #306998; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Python</span>
-  <span style="display: inline-block; background-color: #CC2927; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">SQL (Transact SQL, SQL Server, PostgreSQL)</span>
-  <span style="display: inline-block; background-color: #F05033; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Git & GitHub</span>
-  <span style="display: inline-block; background-color: #217346; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Excel</span>
-  <span style="display: inline-block; background-color: #F2C811; color: black; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Power BI</span>
-  <span style="display: inline-block; background-color: #FF6F00; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Scrum | Agile</span>
-  <span style="display: inline-block; background-color: #4CAF50; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Análisis de datos</span>
-  <span style="display: inline-block; background-color: #203864; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">SAP</span>
-  <span style="display: inline-block; background-color: #2D9BF0; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Power Query</span>
-  <span style="display: inline-block; background-color: #FCC624; color: black; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Linux</span>
-  <span style="display: inline-block; background-color: #E44D26; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">HTML</span>
-  <span style="display: inline-block; background-color: #1572B6; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">CSS</span>
-  <span style="display: inline-block; background-color: #FF4081; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Creación de contenido audiovisual</span>
-  <span style="display: inline-block; background-color: #FF9900; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">IRPA</span>
-  <span style="display: inline-block; background-color: #003366; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Active Directory</span>
-  <span style="display: inline-block; background-color: #0078D4; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Microsoft 365</span>
-  <span style="display: inline-block; background-color: #5A189A; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">MDS</span>
-  <span style="display: inline-block; background-color: #6C63FF; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Inteligencia Artificial</span>
-  <span style="display: inline-block; background-color: #0073CF; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Inglés</span>
-  <span style="display: inline-block; background-color: #3D85C6; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Soporte Técnico</span>
-  <span style="display: inline-block; background-color: #9999FF; color: white; padding: 5px 10px; margin: 5px; border-radius: 5px; font-weight: bold;">Notion</span>
-</p>
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Scrum](https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge&logo=agile&logoColor=white)
+![Análisis de datos](https://img.shields.io/badge/Análisis%20de%20datos-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-203864?style=for-the-badge&logo=sap&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-2D9BF0?style=for-the-badge&logo=powerquery&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Creación de contenido audiovisual](https://img.shields.io/badge/Creación%20de%20contenido%20audiovisual-FF4081?style=for-the-badge)
+![IRPA](https://img.shields.io/badge/IRPA-FF9900?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![MDS](https://img.shields.io/badge/MDS-5A189A?style=for-the-badge)
+![Inteligencia Artificial](https://img.shields.io/badge/Inteligencia%20Artificial-6C63FF?style=for-the-badge&logo=deeplearningai&logoColor=white)
+![Inglés](https://img.shields.io/badge/Inglés-0073CF?style=for-the-badge&logo=language&logoColor=white)
+![Soporte Técnico](https://img.shields.io/badge/Soporte%20Técnico-3D85C6?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=notion&logoColor=white)
