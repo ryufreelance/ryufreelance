@@ -3,7 +3,8 @@
 <div align="center">
 
 <a href="https://github.com/tu-usuario"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&pause=1000&color=B873F1&width=435&lines=Desarrollador;Analista+de+Datos;Profesor;Apasionado+por+la+tecnología;Creatividad;Y+el+Conocimiento">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+  >
 </a>
 
 ---
