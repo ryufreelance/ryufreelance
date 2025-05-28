@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1121F7&width=435&lines=Desarrollador,+Analista+de+Datos,+SAP,+Soporte+Técnico)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1121F7&width=435&lines=Desarrollador%2C+Analista+de+datos;Analista+de+Sistemas%2C+Soporte+T%C3%A9cnico)](https://git.io/typing-svg)
 
 ---
 
